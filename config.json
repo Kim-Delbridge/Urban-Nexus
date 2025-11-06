@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://urban-nexus.org/wp-content/uploads/2025/10/UrbanNexus-Logo-1-02c-02.png",
+    "file": "",
     "link": "",
     "text": "Kim"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": "Id",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
